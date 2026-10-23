@@ -1,0 +1,170 @@
+name BRCA
+label breast
+priority 1
+defaultIsClosed 1
+
+name COADREAD
+label colorectal
+priority 2
+defaultIsClosed 1
+
+name UCEC
+label uterine_endometrial
+priority 3
+defaultIsClosed 1
+
+name KIRC
+label kidney_clear_cell
+priority 4
+defaultIsClosed 1
+
+name LGG
+label low-grade_glioma
+priority 5
+defaultIsClosed 1
+
+name GBM
+label glioblastoma
+priority 6
+defaultIsClosed 1
+
+name LUAD
+label lung_adeno
+priority 7
+defaultIsClosed 1
+
+name THCA
+label thyroid
+priority 8
+defaultIsClosed 1
+
+name HNSC
+label head_and_neck
+priority 9
+defaultIsClosed 1
+
+name PRAD
+label prostate
+priority 10
+defaultIsClosed 1
+
+name LUSC
+label lung_squamous
+priority 11
+defaultIsClosed 1
+
+name SKCM
+label skin_melanoma
+priority 12
+defaultIsClosed 1
+
+name OV
+label ovarian
+priority 13
+defaultIsClosed 1
+
+name STAD
+label stomach
+priority 14
+defaultIsClosed 1
+
+name BLCA
+label bladder
+priority 15
+defaultIsClosed 1
+
+name LIHC
+label liver
+priority 16
+defaultIsClosed 1
+
+name CESC
+label cervical
+priority 17
+defaultIsClosed 1
+
+name KIRP
+label kidney_papillary
+priority 18
+defaultIsClosed 1
+
+name SARC
+label sarcoma
+priority 19
+defaultIsClosed 1
+
+name ESCA
+label esophagus
+priority 20
+defaultIsClosed 1
+
+name PCPG
+label pheo/para
+priority 21
+defaultIsClosed 1
+
+name PAAD
+label pancreatic
+priority 22
+defaultIsClosed 1
+
+name LAML
+label AML
+priority 23
+defaultIsClosed 1
+
+name TGCT
+label testicular
+priority 24
+defaultIsClosed 1
+
+name THYM
+label thymoma
+priority 25
+defaultIsClosed 1
+
+name MESO
+label mesothelioma
+priority 26
+defaultIsClosed 1
+
+name UVM
+label uveal_melanoma
+priority 27
+defaultIsClosed 1
+
+name ACC
+label adrenocortical
+priority 28
+defaultIsClosed 1
+
+name KICH
+label kidney_chromophobe
+priority 29
+defaultIsClosed 1
+
+name UCS
+label uterine_carcinosarcoma
+priority 30
+defaultIsClosed 1
+
+name DLBC
+label DLBCL
+priority 31
+defaultIsClosed 1
+
+name CHOL
+label cholangiocarcinoma
+priority 32
+defaultIsClosed 1
+
+name normal
+label normal
+priority 33
+defaultIsClosed 1
+
+name redundant
+label redundant
+priority 34
+defaultIsClosed 1
+
