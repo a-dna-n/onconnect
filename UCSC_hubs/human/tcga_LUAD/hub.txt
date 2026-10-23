@@ -1,7 +1,0 @@
-hub LUAD
-shortLabel recount3 coverage
-longLabel temporary clone focused on cancer - aiming to link recount3 data with other evidence
-genomesFile genomes.txt
-email temptemp@gmail.com
-descriptionUrl https://rna.recount.bio/index.html
-
