@@ -1,6 +1,6 @@
 hub recount3_relabeled
 shortLabel recount3 RNA-seq
-longLabel base-level read depth from recount3 for TCGA, with sample IDs translated
+longLabel base-level read depth from recount3 for all tumors from The Cancer Genome Atlas, with sample IDs translated
 genomesFile genomes.txt
 email adnan.derti@gmail.com
 descriptionUrl https://rna.recount.bio/index.html

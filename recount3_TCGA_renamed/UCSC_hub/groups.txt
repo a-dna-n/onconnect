@@ -1,160 +1,163 @@
+
+
 name BRCA
-label breast
+label Breast Invasive Carcinoma
 priority 1
 defaultIsClosed 1
 
 name COADREAD
-label colorectal
+label Colorectal Adenocarcinoma
 priority 2
 defaultIsClosed 1
 
 name UCEC
-label uterine_endometrial
+label Uterine Corpus Endometrial Carcinoma
 priority 3
 defaultIsClosed 1
 
 name KIRC
+label Kidney Renal Clear Cell Carcinoma
 label kidney_clear_cell
 priority 4
 defaultIsClosed 1
 
 name LGG
-label low-grade_glioma
+label Brain Lower Grade Glioma
 priority 5
 defaultIsClosed 1
 
 name GBM
-label glioblastoma
+label Glioblastoma Multiforme
 priority 6
 defaultIsClosed 1
 
 name LUAD
-label lung_adeno
+label Lung Adenocarcinoma
 priority 7
 defaultIsClosed 1
 
 name THCA
-label thyroid
+label Thyroid Carcinoma
 priority 8
 defaultIsClosed 1
 
 name HNSC
-label head_and_neck
+label Head and Neck Squamous Cell Carcinoma
 priority 9
 defaultIsClosed 1
 
 name PRAD
-label prostate
+label Prostate Adenocarcinoma
 priority 10
 defaultIsClosed 1
 
 name LUSC
-label lung_squamous
+label Lung Squamous Cell Carcinoma
 priority 11
 defaultIsClosed 1
 
 name SKCM
-label skin_melanoma
+label Skin Cutaneous Melanoma
 priority 12
 defaultIsClosed 1
 
 name OV
-label ovarian
+label Ovarian Serous Cystadenocarcinoma
 priority 13
 defaultIsClosed 1
 
 name STAD
-label stomach
+label Stomach Adenocarcinoma
 priority 14
 defaultIsClosed 1
 
 name BLCA
-label bladder
+label Bladder Urothelial Carcinoma
 priority 15
 defaultIsClosed 1
 
 name LIHC
-label liver
+label Liver Hepatocellular Carcinoma
 priority 16
 defaultIsClosed 1
 
 name CESC
-label cervical
+label Cervical Squamous Cell Carcinoma & Endocervical Adenocarcinoma
 priority 17
 defaultIsClosed 1
 
 name KIRP
-label kidney_papillary
+label Kidney Renal Papillary Cell Carcinoma
 priority 18
 defaultIsClosed 1
 
 name SARC
-label sarcoma
+label Sarcoma
 priority 19
 defaultIsClosed 1
 
 name ESCA
-label esophagus
+label Esophageal Carcinoma
 priority 20
 defaultIsClosed 1
 
 name PCPG
-label pheo/para
+label Pheochromocytoma and Paraganglioma
 priority 21
 defaultIsClosed 1
 
 name PAAD
-label pancreatic
+label Pancreatic Adenocarcinoma
 priority 22
 defaultIsClosed 1
 
 name LAML
-label AML
+label Acute Myeloid Leukemia
 priority 23
 defaultIsClosed 1
 
 name TGCT
-label testicular
+label Testicular Germ Cell Tumors
 priority 24
 defaultIsClosed 1
 
 name THYM
-label thymoma
+label Thymoma
 priority 25
 defaultIsClosed 1
 
 name MESO
-label mesothelioma
+label Mesothelioma
 priority 26
 defaultIsClosed 1
 
 name UVM
-label uveal_melanoma
+label Uveal Melanoma
 priority 27
 defaultIsClosed 1
 
 name ACC
-label adrenocortical
+label Adrenocortical Carcinoma
 priority 28
 defaultIsClosed 1
 
 name KICH
-label kidney_chromophobe
+label Kidney Chromophobe
 priority 29
 defaultIsClosed 1
 
 name UCS
-label uterine_carcinosarcoma
+label Uterine Carcinosarcoma
 priority 30
 defaultIsClosed 1
 
 name DLBC
-label DLBCL
+label Diffuse Large B-cell Lymphoma
 priority 31
 defaultIsClosed 1
 
 name CHOL
-label cholangiocarcinoma
+label Cholangiocarcinoma
 priority 32
 defaultIsClosed 1
 
