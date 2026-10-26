@@ -1,6 +1,5 @@
 track Vero_Ctrl_1
 bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_Ctrl_1.bam
-3-Air_x484.genes.bam
 shortLabel vero
 longLabel asdf
 type bam
