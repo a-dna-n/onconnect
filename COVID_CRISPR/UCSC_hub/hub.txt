@@ -1,0 +1,8 @@
+hub COVID CRISPR RNAseq
+shortLabel COVID CRISPR RNA-seq
+longLabel base-level read depth from RNA-se
+genomesFile genomes.txt
+email adnan.derti@gmail.com
+descriptionUrl https://github.com/a-dna-n/onconnect
+
+

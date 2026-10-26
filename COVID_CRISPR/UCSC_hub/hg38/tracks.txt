@@ -1,0 +1,9 @@
+track TCGA-02-0047-01A
+bigDataUrl http://duffel.rail.bio/recount3/human/data_sources/tcga/base_sums/BM/GBM/F4/tcga.base_sums.GBM_2dab6792-f9af-4565-bdd5-c9802f3132f4.ALL.bw
+shortLabel TCGA-02-0047-01A
+longLabel recount3 2dab6792-f9af-4565-bdd5-c9802f3132f4
+type bigWig
+visibility hide
+autoScale on
+alwaysZero on
+
