@@ -1,6 +1,10 @@
 genome hg38
 trackDb hg38/tracks.txt
+genomesFile hg38/genome.txt
+groups hg38/groups.txt
 
 
 genome GCF_047675955.1
+genomesFile hg38/genome.txt
 trackDb mChlSab1.0.hap1/tracks.txt
+groups mChlSab1.0.hap1/groups.txt

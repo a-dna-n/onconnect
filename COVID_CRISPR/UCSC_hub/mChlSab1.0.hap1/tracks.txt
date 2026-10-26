@@ -7,6 +7,7 @@ visibility show
 autoScale on
 alwaysZero on
 doWiggle on
+group KDM6A
 
 
 track Vero_Ctrl_2
@@ -18,9 +19,11 @@ visibility show
 autoScale on
 alwaysZero on
 doWiggle on
+group KDM6A
+
 
 Vero_KDM6A_KO_1
-bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_KDM6A_KO_1
+bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_KDM6A_KO_1.bam
 track Vero_KDM6A_KO_1
 shortLabel KO #1
 longLabel asdf
@@ -29,9 +32,10 @@ visibility show
 autoScale on
 alwaysZero on
 doWiggle on
+group KDM6A
 
 Vero_KDM6A_KO_2
-bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_KDM6A_KO_2
+bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_KDM6A_KO_2.bam
 track Vero_KDM6A_KO_2
 shortLabel KO #2
 longLabel asdf
@@ -40,4 +44,4 @@ visibility show
 autoScale on
 alwaysZero on
 doWiggle on
-
+group KDM6A

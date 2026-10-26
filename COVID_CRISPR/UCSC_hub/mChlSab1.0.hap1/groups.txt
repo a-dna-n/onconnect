@@ -1,0 +1,22 @@
+
+
+name KDM6A
+label KDM6A
+priority 1
+defaultIsClosed 1
+
+name HMGB1
+label HMGB1
+priority 2
+defaultIsClosed 1
+
+name SMARCA4
+label SMARCA4
+priority 3
+defaultIsClosed 1
+
+name DYRK1A
+label DYRK1A
+priority 4
+defaultIsClosed 1
+

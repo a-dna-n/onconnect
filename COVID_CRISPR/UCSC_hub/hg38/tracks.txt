@@ -1,9 +1,12 @@
-track TCGA-02-0047-01A
-bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/hg38/ACE2/3-Air_x484.genes.bam
-shortLabel TCGA-02-0047-01A
-longLabel recount3 2dab6792-f9af-4565-bdd5-c9802f3132f4
+track 1-Air_WT
+bigDataUrl https://github.com/a-dna-n/onconnect/raw/refs/heads/main/COVID_CRISPR/UCSC_hub/hg38/ACE2/1-Air_WT.bam
+group ACE2
+shortLabel air
+longLabel trial
 type bam
 visibility show
 autoScale on
 alwaysZero on
 doWiggle on
+group ACE2
+
