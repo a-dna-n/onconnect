@@ -1,6 +1,39 @@
 track Vero_Ctrl_1
 bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_Ctrl_1.bam
-shortLabel vero
+shortLabel control #1
+longLabel control #1
+type bam
+visibility show
+autoScale on
+alwaysZero on
+doWiggle on
+
+
+track Vero_Ctrl_2
+bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_Ctrl_2.bam
+shortLabel control #2
+longLabel control #2
+type bam
+visibility show
+autoScale on
+alwaysZero on
+doWiggle on
+
+Vero_KDM6A_KO_1
+bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_KDM6A_KO_1
+track Vero_KDM6A_KO_1
+shortLabel KO #1
+longLabel asdf
+type bam
+visibility show
+autoScale on
+alwaysZero on
+doWiggle on
+
+Vero_KDM6A_KO_2
+bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/KDM6A/Vero_KDM6A_KO_2
+track Vero_KDM6A_KO_2
+shortLabel KO #2
 longLabel asdf
 type bam
 visibility show
