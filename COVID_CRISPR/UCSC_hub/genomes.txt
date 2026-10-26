@@ -2,3 +2,5 @@ genome hg38
 trackDb hg38/tracks.txt
 
 
+genome GCF_047675955.1
+trackDb mChlSab1.0.hap1/tracks.txt
