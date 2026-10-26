@@ -2,7 +2,7 @@ track TCGA-02-0047-01A
 bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/hg38/ACE2/3-Air_x484.genes.bam
 shortLabel TCGA-02-0047-01A
 longLabel recount3 2dab6792-f9af-4565-bdd5-c9802f3132f4
-type bigWig
+type bam
 visibility hide
 autoScale on
 alwaysZero on
