@@ -17,7 +17,6 @@ chromAuthority ucsc
 track cytoBandIdeo
 shortLabel Chromosome Band (Ideogram)
 longLabel Ideogram for Orientation
-group map
 visibility dense
 type bigBed 4 +
 bigDataUrl https://raw.githubusercontent.com/a-dna-n/onconnect/refs/heads/main/COVID_CRISPR/UCSC_hub/mChlSab1.0.hap1/GCF_047675955.1_mChlSab1.0.hap1.cytoBand.chr.bb
