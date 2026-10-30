@@ -12,3 +12,4 @@ chromSizes https://hgdownload.soe.ucsc.edu/hubs/GCF/047/675/955/GCF_047675955.1/
 chromAlias https://hgdownload.soe.ucsc.edu/hubs/GCF/047/675/955/GCF_047675955.1/GCF_047675955.1.chromAlias.txt
 defaultPos chrM:1-16,550
 organism mChlSab1.0.hap1 Feb. 2025
+chromAuthority ucsc
