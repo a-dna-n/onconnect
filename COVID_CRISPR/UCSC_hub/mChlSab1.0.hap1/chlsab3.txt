@@ -1,0 +1,13 @@
+hub chlSab3.0
+shortLabel green monkey 3.0
+longLabel Chlorocebus sabaeus mChlSab1.0.hap1 via UCSC
+useOneFile on
+email genome-www@soe.ucsc.edu
+descriptionUrl https://hgdownload.soe.ucsc.edu/hubs/GCF/047/675/955/GCF_047675955.1/html/GCF_047675955.1_mChlSab1.0.hap1.description.html
+
+genome GCF_047675955.1
+description green monkey 3.0
+twoBitPath https://hgdownload.soe.ucsc.edu/hubs/GCF/047/675/955/GCF_047675955.1/GCF_047675955.1.2bit
+chromSizes https://hgdownload.soe.ucsc.edu/hubs/GCF/047/675/955/GCF_047675955.1/GCF_047675955.1.chrom.sizes.txt
+chromAlias https://hgdownload.soe.ucsc.edu/hubs/GCF/047/675/955/GCF_047675955.1/GCF_047675955.1.chromAlias.txt
+defaultPos chrM:1-16,550
